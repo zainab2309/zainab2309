@@ -5,22 +5,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=FF00C1&center=true&vCenter=true&width=700&lines=%3E+booting+neural_core.exe...;%3E+overclocking+brass+gears+%2B+silicon...;%3E+WARNING%3A+neon+levels+critical...;%3E+welcome+to+the+data+foundry." alt="Typing SVG" />
 </div>
 <br/>
-⚙️ ABOUT
+
+## ⚙️ ABOUT ME
 
 
-🔭 Building models in the workshop between the pistons and the pipelines
+- 🔭 I build models — mostly the kind that learn, sometimes the kind with gears
 
-🧠 Neural nets by day, mechanical philosophy by night
+- 🧠 Focused on data, ML, and AI, with a soft spot for robotics
+ 
+- ⚡ Currently exploring computer vision and hands-on hardware projects
 
-⚡ Powered by caffeine, copper coils, and gradient descent
-
-🛠️ Currently forging: [ your current project ]
-
-📡 Reach me at: [ your contact / socials ]
+<!-- - 🛠️ Currently forging: `[ your current project ]`
+- 📡 Reach me at: `[ your contact / socials ]` -->
 
 
 <br/>
-🔩 TECH_STACK
+## 🔩 TECH_STACK
 
 🐍 Python   🔥 PyTorch   🧠 TensorFlow   🐼 Pandas   📈 scikit-learn   📓 Jupyter   🐳 Docker   🗄️ SQL
 
@@ -39,9 +39,10 @@ Python PyTorch Docker — View Repo →
 Pandas scikit-learn SQL — View Repo → -->
 
 <br/>
-📡 TRANSMIT_LINKS
+## 📡 TRANSMIT_LINKS
 
-[LinkedIn](https://www.linkedin.com/in/zainab-waqas-47a511397/)  <!--|  Kaggle |  Instagram-->
+[LinkedIn](https://www.linkedin.com/in/zainab-waqas-47a511397) 
+
 
 <br/>
 
