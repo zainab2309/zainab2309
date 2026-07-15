@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- flashing neon banner — lives at assets/neon_banner.svg in this repo -->
-<img src="assets/neon_banner.svg" width="100%"/>
+<img src="neon_banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=FF00C1&center=true&vCenter=true&width=700&lines=%3E+booting+neural_core.exe...;%3E+overclocking+brass+gears+%2B+silicon...;%3E+WARNING%3A+neon+levels+critical...;%3E+welcome+to+the+data+foundry." alt="Typing SVG" />
 
