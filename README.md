@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🔩 TECH_STACK
+## 🔩 TECH STACK
 
 🐍 Python   🔥 PyTorch   🧠 TensorFlow   🐼 Pandas   📈 scikit-learn   📓 Jupyter   🐳 Docker   🗄️ SQL
 
@@ -42,11 +42,8 @@ Pandas scikit-learn SQL — View Repo → -->
 <br/>
 
 
-## 📡 TRANSMIT_LINKS
-
+## MY SOCIALS
 [LinkedIn](https://www.linkedin.com/in/zainab-waqas-47a511397)
-
-
 
 <br/>
 
