@@ -7,9 +7,13 @@
 
 
 🔭 Building models in the workshop between the pistons and the pipelines
+
 🧠 Neural nets by day, mechanical philosophy by night
+
 ⚡ Powered by caffeine, copper coils, and gradient descent
+
 🛠️ Currently forging: [ your current project ]
+
 📡 Reach me at: [ your contact / socials ]
 
 
@@ -27,16 +31,16 @@
 <br/>
 🗜️ // ARCHIVE.vault — Featured Builds
 
-⚙️ project-one — Brief description of the project — what gear it turns, what problem it solves.
+<!--⚙️ project-one — Brief description of the project — what gear it turns, what problem it solves.
 Python PyTorch Docker — View Repo →
 
 🔮 project-two — Brief description — the neon-lit twin to the brass machine above.
-Pandas scikit-learn SQL — View Repo →
+Pandas scikit-learn SQL — View Repo → -->
 
 <br/>
 📡 // TRANSMIT_LINKS
 
-LinkedIn  |  Twitter  |  Email  |  Kaggle
+LinkedIn  |  Kaggle  |  Instagram
 
 <br/>
 // end of transmission — gears still spinning
