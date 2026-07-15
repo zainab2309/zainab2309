@@ -48,7 +48,7 @@
   <!-- flickering cyan main title -->
   <text x="450" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold"
         font-size="54" fill="#00fff9" filter="url(#glowCyan)">
-    YOUR_NAME
+    Zainab
     <animate attributeName="opacity"
       values="1;1;0.35;1;1;0.5;1;1;1;0.3;1;1"
       dur="2.6s" repeatCount="indefinite"/>
