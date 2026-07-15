@@ -20,6 +20,7 @@
 
 
 <br/>
+
 ## 🔩 TECH_STACK
 
 🐍 Python   🔥 PyTorch   🧠 TensorFlow   🐼 Pandas   📈 scikit-learn   📓 Jupyter   🐳 Docker   🗄️ SQL
@@ -39,9 +40,12 @@ Python PyTorch Docker — View Repo →
 Pandas scikit-learn SQL — View Repo → -->
 
 <br/>
+
+
 ## 📡 TRANSMIT_LINKS
 
-[LinkedIn](https://www.linkedin.com/in/zainab-waqas-47a511397) 
+[LinkedIn](https://www.linkedin.com/in/zainab-waqas-47a511397)
+
 
 
 <br/>
