@@ -41,7 +41,7 @@ Pandas scikit-learn SQL — View Repo → -->
 <br/>
 📡 TRANSMIT_LINKS
 
-LinkedIn  |  Kaggle  |  Instagram
+LinkedIn(https://www.linkedin.com/in/zainab-waqas-47a511397/)  <!--|  Kaggle |  Instagram-->
 
 <br/>
 
