@@ -1,6 +1,6 @@
 <div align="center">
 <!-- flashing neon banner — served via jsDelivr so the SVG + animation actually render -->
-<img src="https://cdn.jsdelivr.net/gh/zainab2309/zainab2309@main/neon_banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/zainab2309/zainab2309/main/neon_banner.svg" width="100%">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=FF00C1&center=true&vCenter=true&width=700&lines=%3E+booting+neural_core.exe...;%3E+overclocking+brass+gears+%2B+silicon...;%3E+WARNING%3A+neon+levels+critical...;%3E+welcome+to+the+data+foundry." alt="Typing SVG" />
 </div>
